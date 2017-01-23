@@ -1,3 +1,3 @@
 # Artifical_intelligence
 
-This Contains the code for 15 tile puzzle and spam filter
+Implementation of different AI algorithms like POS tagging, puzzle solving and Spam filtering as a part of mini projects in the University.
